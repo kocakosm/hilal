@@ -10,7 +10,7 @@ Screenshot
 This screenshot may be out of date, but it should at least give you an idea of
 the general look and feel of the theme.
 
-[![Screenshot][1]]
+![Screenshot][1]
 
 
 Contributing
