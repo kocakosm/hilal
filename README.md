@@ -48,7 +48,7 @@ liability, whether in an action of contract, tort or otherwise, arising from,
 out of or in connection with the software or the use or other dealings in the
 software._
 
-See the [MIT/X11 License][4] for more details.
+See the [MIT License][4] for more details.
 
 
 Contact
