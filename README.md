@@ -59,7 +59,7 @@ or ping me on [twitter][5].
 
 
  [1]: https://raw.githubusercontent.com/kocakosm/hilal/master/screenshot.png
- [2]: https://bitbucket.org/kocakosm/hilal/issues?status=new&status=open
- [3]: https://bitbucket.org/kocakosm/hilal
+ [2]: https://github.com/kocakosm/hilal/issues/new
+ [3]: https://github.com/kocakosm/hilal
  [4]: https://opensource.org/licenses/MIT
  [5]: https://twitter.com/kocakosm
