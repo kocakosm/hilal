@@ -1,6 +1,6 @@
 "----------------------------------------------------------------------"
 " Hilal - A dark colorscheme for Vim                                   "
-" Copyright (c) 2016-2017 Osman Koçak <kocakosm@gmail.com>             "
+" Copyright (c) 2016-2020 Osman Koçak <kocakosm@gmail.com>             "
 " Licensed under the MIT license <https://opensource.org/licenses/MIT> "
 "----------------------------------------------------------------------"
 
